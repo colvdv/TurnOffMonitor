@@ -2,7 +2,7 @@
 A simple keyboard/desktop shortcut Powershell script to turn off the monitor(s).
 
 ## How to Use
-Download the latest release or follow the DIY instructions below.
+Download the [zip archive](https://github.com/colvdv/TurnOffMonitor/releases/download/v1.0/TurnOffMonitor.zip) from the [latest release](https://github.com/colvdv/TurnOffMonitor/releases) or follow the DIY instructions below.
 
 ## DIY Instructions
 ### Step 1: Create the Desktop Shortcut Script
